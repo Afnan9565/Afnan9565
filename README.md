@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Afnan9565
-- 👀 I’m interested in Website Devlopment and some other technologies uch as C++
+- 👀 I’m interested in Website Devlopment and some other technologies such as C++
 - 🌱 I’m currently learning 11th  
 - 📫 You can contact me at afnanahmad9565@gmail.com
 - ⚡ EVER user
