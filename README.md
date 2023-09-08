@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Afnan9565
 - 👀 I’m interested in Website Devlopment and some other technologies such as C++
-- 🌱 I’m currently learning 11th  
+- 🌱 I’m currently learning SQL
 - 📫 You can contact me at afnanahmad9565@gmail.com
 - ⚡ EVER user
 - 🐱‍👓 Lives in Bihar,India
